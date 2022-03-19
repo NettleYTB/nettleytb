@@ -1,1 +1,35 @@
-# HorizonGame-V6
+![HorizonGame](https://media.discordapp.net/attachments/906083579673591819/917360460246949958/2-Samsung_Galaxy_S20_U.png?width=656&height=656)
+
+> Horizongame est un bot simple mais puissant qui vise à offrir aux utilisateurs de Discord une "expérience Discord" améliorée.
+> Serveur de support: [ici](https://discord.gg/JBBeMm8s97)
+> site web: [ici](https://horizongame.ml)
+
+### Les fonctionnalités actuelles
+
+horizongame est un bot discord riche en fonctionnalités avec de nouvelles fonctionnalités constamment mises à jour ! Les fonctionnalités actuelles incluent
+
+* **Modération automatique**: Utilisez la modération automatique pour garder votre serveur Discord propre
+* **Modération puissante avec journalisation**: Modérez et enregistrez chaque action que vous entreprenez
+* **Manipulation d'images**: Amusez-vous avec divers "filtres" et "générateurs" d'images
+* **Economy & XP System**: Engage user interaction with the economy and Levelling system
+* **Suivi des invitations**: meilleur suivi des invitations avec des classements d'invitations configurables
+* **Ticketing**: prise en charge de la création de plusieurs salon de "tickets"
+* **Rôles de réaction**: prise en charge de la création de plusieurs rôles de réaction personnalisés
+* **Salutations**: intégrations de bienvenue et d'adieu hautement personnalisables 
+### Catégories
+
+Horizongame a une liste complète de toutes les commandes utiles (**plus de 100**) qui sont classées comme suit
+
+* **Automodération**: `antighostping`, `antiinvites`, `antilinks`, `antiscam`, `maxlines`, `maxmentions`, ...
+* **Administration**: `welcome`, `farewell`, `reaction-roles`, ...
+* **Économie**: `daily`, `gamble`, `deposit`, `withdraw`, `transfer`, ...
+* **Amusant**: `cat`, `doc`, `flipcoin`, `fliptext`, ...
+* **Information**: `avatar`, `roleinfo`, `channelinfo`, `guildinfo`, `profile`, ...
+* **Invites**: `inviter`, `invites`, `invitesimport`, `invitecodes`, ...
+* **Modération**: `warn`, `kick`, `softban`, `ban`, `mute`, `unmute`, ...
+* **Musique**: `play`, `pause`, `resume`, `stop`, `skip`, `queue`, `np`, ...
+* **Social**: `reputation list,` `give reputation,` ...
+* **Ticket**: `setup`, `close`, `log`, ...
+* **Utilitaire**: `proxies`, `translation`, `weather`, `covid`, ...
+
+Une liste complète des commandes se trouve sur le site [horizongame.ml](https://commands-horizongame.ml/)  
