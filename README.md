@@ -1,35 +1,28 @@
-![HorizonGame](https://media.discordapp.net/attachments/906083579673591819/917360460246949958/2-Samsung_Galaxy_S20_U.png?width=656&height=656)
+Terms of Service
+Last updated: July 6th, 2022
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the bot (the "Service").
 
-> Horizongame est un bot simple mais puissant qui vise à offrir aux utilisateurs de Discord une "expérience Discord" améliorée.
-> Serveur de support: [ici](https://discord.gg/JBBeMm8s97)
-> site web: [ici](https://horizongame.ml)
+Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who wish to access or use the Service.
 
-### Les fonctionnalités actuelles
+By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of then you do not have permission to access the Service.
 
-horizongame est un bot discord riche en fonctionnalités avec de nouvelles fonctionnalités constamment mises à jour ! Les fonctionnalités actuelles incluent
+Purchases
+Not yet available
 
-* **Modération automatique**: Utilisez la modération automatique pour garder votre serveur Discord propre
-* **Modération puissante avec journalisation**: Modérez et enregistrez chaque action que vous entreprenez
-* **Manipulation d'images**: Amusez-vous avec divers "filtres" et "générateurs" d'images
-* **Economy & XP System**: Engage user interaction with the economy and Levelling system
-* **Suivi des invitations**: meilleur suivi des invitations avec des classements d'invitations configurables
-* **Ticketing**: prise en charge de la création de plusieurs salon de "tickets"
-* **Rôles de réaction**: prise en charge de la création de plusieurs rôles de réaction personnalisés
-* **Salutations**: intégrations de bienvenue et d'adieu hautement personnalisables 
-### Catégories
+Availability, Errors and Inaccuracies
+We are constantly updating product and service offerings on the Service. We may experience delays in updating information on the Service and in our advertising on other web sites. The information found on the Service may contain errors or inaccuracies and may not be complete or current. Products or services may be mispriced, described inaccurately, or unavailable on the Service and we cannot guarantee the accuracy or completeness of any information found on the Service. We therefore reserve the right to change or update information and to correct errors, inaccuracies, or omissions at any time without prior notice.
 
-Horizongame a une liste complète de toutes les commandes utiles (**plus de 100**) qui sont classées comme suit
+Links To Other Web Sites
+Our Service may contain links to third party web sites or services that are not owned or controlled by Rajat Jha. Rajat has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites, APIs or services. We do not warrant the offerings of any of these entities/individuals or their websites. You acknowledge and agree that Rajat shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services. We strongly advise you to read the terms and conditions and privacy policies of any third party web sites or services that you visit.
 
-* **Automodération**: `antighostping`, `antiinvites`, `antilinks`, `antiscam`, `maxlines`, `maxmentions`, ...
-* **Administration**: `welcome`, `farewell`, `reaction-roles`, ...
-* **Économie**: `daily`, `gamble`, `deposit`, `withdraw`, `transfer`, ...
-* **Amusant**: `cat`, `doc`, `flipcoin`, `fliptext`, ...
-* **Information**: `avatar`, `roleinfo`, `channelinfo`, `guildinfo`, `profile`, ...
-* **Invites**: `inviter`, `invites`, `invitesimport`, `invitecodes`, ...
-* **Modération**: `warn`, `kick`, `softban`, `ban`, `mute`, `unmute`, ...
-* **Musique**: `play`, `pause`, `resume`, `stop`, `skip`, `queue`, `np`, ...
-* **Social**: `reputation list,` `give reputation,` ...
-* **Ticket**: `setup`, `close`, `log`, ...
-* **Utilitaire**: `proxies`, `translation`, `weather`, `covid`, ...
+Termination
+We may terminate or suspend your access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms. All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability. Indemnification You agree to defend, indemnify and hold harmless Rajat, and their partners, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses, resulting from or arising out of a) your use and access of the Service, or b) a breach of these Terms.
 
-Une liste complète des commandes se trouve sur le site [horizongame.ml](https://commands-horizongame.ml/)  
+Disclaimer
+Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance. Rajat its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+
+Exclusions
+Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.
+
+Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
