@@ -40,11 +40,11 @@
 ## 📸 Preview
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1106199014250119309/1414885055859396668/image.png?ex=68c131e4&is=68bfe064&hm=e255824cd1e2d44df07b6f7b16fe8008b4c4f01679e007f72f17b8edcbc7ae0b&=&format=webp&quality=lossless" width="520"><br>
-<img src="https://media.discordapp.net/attachments/1106199014250119309/1414885055548887111/image1.png?ex=68c131e4&is=68bfe064&hm=8d51042df6cd74584d23ebc392b34e31d6a73746415b0171501b4d666f593264&=&format=webp&quality=lossless" width="520"><br>
-<img src="https://media.discordapp.net/attachments/1106199014250119309/1414885054726934638/image3.png?ex=68c131e4&is=68bfe064&hm=7fbbaad1524cc959e48eaaeecfc3f942d18468db73ea4134bb5719b34505eb1a&=&format=webp&quality=lossless&width=738&height=856" width="520"><br>
-<img src="https://media.discordapp.net/attachments/1106199014250119309/1414885055221989408/image2.png?ex=68c131e4&is=68bfe064&hm=5cd04931a2050f4f29127cce8ef6a0fdc7e626fe0a81d1dde7d7462726b80760&=&format=webp&quality=lossless&width=529&height=856" width="520"><br>
-<img src="https://media.discordapp.net/attachments/1106199014250119309/1414885017577984110/image.png?ex=68c131db&is=68bfe05b&hm=5f4726e705b87744b075fa50a6b141fa28efa1ddc34213a8822d1e9dd69c43ba&=&format=webp&quality=lossless" width="520">
+<img src="https://media.discordapp.net/attachments/1413881034499686490/1415669501457993728/Zobump_confighelp.jpg?ex=68c40c77&is=68c2baf7&hm=5b91efd5f755cac6d78b37e0c5e3b69ed3173f12e4e9ea16eafd0365532b3e7e&=&format=webp&width=1591&height=873" width="520"><br>
+<img src="https://media.discordapp.net/attachments/1413881034499686490/1415669551303102616/Zobump_config.jpg?ex=68c40c82&is=68c2bb02&hm=2fb30b4b33c40864a948f89b814cf200582d636b724724ccdb1d575363f02e38&=&format=webp&width=1591&height=873" width="520"><br>
+<img src="https://media.discordapp.net/attachments/1413881034499686490/1415669596329082991/Zobump_config_part2.jpg?ex=68c40c8d&is=68c2bb0d&hm=ff1dec3ffb57ae79cf1062810e969f2de16ce0dd882cae8652dd9a5ab47cc658&=&format=webp&width=1591&height=873" width="520"><br>
+<img src="https://media.discordapp.net/attachments/1413881034499686490/1415669649215062036/Zobump_config_part3.jpg?ex=68c40c9a&is=68c2bb1a&hm=33e34c4e4aa9d7799bc0f64fd7df89e999cf27db2e216ea3951511e73e843018&=&format=webp&width=1591&height=873" width="520"><br>
+<img src="https://media.discordapp.net/attachments/1413881034499686490/1415669707641589810/Zobump_stats.jpg?ex=68c40ca8&is=68c2bb28&hm=de318a1ca547676d70718954d6db68fc880b2ba8c95294844b352abfe3cd4526&=&format=webp&width=1591&height=873" width="520">
 </p>
 
 ---
